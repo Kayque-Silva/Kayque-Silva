@@ -7,6 +7,7 @@ Recentemente, descobri o mundo da programação e desde então tenho me dedicado
 Atualmente, meu foco está em me tornar um desenvolvedor versátil, capaz de trabalhar tanto no desenvolvimento front-end quanto no back-end. Acredito que a combinação dessas habilidades me permitirá criar experiências incríveis na minha carreira. 🌐💻
 
 <br>
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kayque-Silva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kayque-Silva&layout=compact&langs_count=10&theme=dark"/>
   <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
